@@ -23,6 +23,7 @@ the scraped dataset will consist of 1,365 rows and 8 intial columns.
 | date | date the article was puplished | date
 | imageCount | number of images in preview | int
 | full_text? | avilability of full text ( using download or Request full-text as keywords) | string
+| citation | number of times that paper was cited | int
 | reads | number of views (target variable)| int
 
 

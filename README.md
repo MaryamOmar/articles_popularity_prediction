@@ -12,7 +12,7 @@ The data will be scraped form researchgate.net, it will include information abou
 https://www.researchgate.net/institution/Loughborough_University/department/Department_of_Social_Sciences/publications
 
 ### Description 
-the scraped dataset will consist of 1,365 rows and 8 intial columns.
+the scraped dataset will consist of 1,365 rows and 10 intial columns.
 
 | col | Description | Type |
 | --- | --- | --- |
@@ -20,8 +20,9 @@ the scraped dataset will consist of 1,365 rows and 8 intial columns.
 | auther| auther name | string 
 | abstract | abstract full-text  | string
 | category| article, literature review, conference paper..etc | string
-| date | date the article was puplished | date
-| imageCount | number of images in preview | int
+| date_published | date the article was puplished | date
+| date_added | date the article was uploaded to researchgate | date
+| figuersCount | number of images in preview | int
 | full_text? | avilability of full text ( using download or Request full-text as keywords) | string
 | citation | number of times that paper was cited | int
 | reads | number of views (target variable)| int

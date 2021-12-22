@@ -1,6 +1,9 @@
 # Scientific Articles Reads Predicition
 
 
+## TEAM
+- Maryam Omar 
+- Sara Altamimi @saraaltamimi12
 
 ## OVERVIEW
 in this project I'll be building a linear regression model to predicit the popularity of scientific articles. 

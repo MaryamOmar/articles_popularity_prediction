@@ -6,7 +6,7 @@
 - Sara Altamimi @saraaltamimi12
 
 ## OVERVIEW
-in this project we'll be building a regression model to predicit the popularity of scientific articles, then recommends popular articles to users based on th
+in this project we'll be building a regression model to predicit the popularity of scientific articles, then recommends popular articles to users based on the topic they are interested in. 
 
 ## DATA
 The data will be scraped form researchgate.net, it will include information about all publications from a single department. I chose the department of social sciences from Loughborough University, becuase they have a solid number of publications and many different authers. 

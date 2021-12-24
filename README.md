@@ -3,7 +3,7 @@
 
 ## TEAM
 - Maryam Omar 
-- Sara Altamimi @saraaltamimi12
+- [Sara Altamimi](https://github.com/saraaltamimi12)
 
 ## OVERVIEW
 in this project we'll be building a model to predicit the number of reads of scientific articles from different social science departments on researchgate, then we'll build a content-based recommender system that recommends popular articles to users based on the topic they are interested in. 

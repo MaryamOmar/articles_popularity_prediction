@@ -43,7 +43,7 @@ the scraped dataset will consist of 1,365 rows and 12 intial columns.
 
 ## TOOLS  
 
-### Data collection and Preprocessing & Modeling  
+### Data collection, Preprocessing & Modeling  
 - **Scraping:** beautifulsoup, selenium. 
 - **Text Preprocessing & Mining:** NLTK.
 - **Modeling:** scikit-learn.

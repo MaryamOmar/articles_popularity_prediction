@@ -6,16 +6,13 @@
 - [Sara Altamimi](https://github.com/saraaltamimi12)
 
 ## OVERVIEW
-in this project we'll be building a model to predicit the number of reads of scientific articles from different social science departments on researchgate, then we'll build a content-based recommender system that recommends popular articles to users based on the topic they are interested in. 
+in this project we'll be building a model to predicit the number of reads of scientific articles from different social science departments on researchgate.
 
 ## STEPS
 - Topic modeling: first we'll extract the topics from the papers abstract, using NMF and LDA, then we'll compare the results.
 - Get stats from text like number of words and scentences in the titles and abstracts, and add these info as new feauteres.
 - Perform feautre engineering.
 - Create a regression model to predict the number of reads.
-- Create a contend-based recommender system to recommend articles to users based on thier favorite topic.
-- Create a website.
-- Deploy the website to heruko.
 
 
 ## DATA

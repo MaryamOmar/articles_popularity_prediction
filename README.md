@@ -19,7 +19,7 @@ in this project we'll be building a model to predicit the number of reads of sci
 
 
 ## DATA
-The data is scraped form researchgate.net, it will includes information about all publications from  different . we chose social sciences becuase topics in social science do not need domian-experties to understand, and have a solid number of publications and diverse topics. 
+The data is scraped form researchgate.net, it includes information about all publications from  different . we chose social sciences becuase topics in social science do not need domian-experties to understand, and have a solid number of publications and diverse topics. 
 
 ### source:
 https://www.researchgate.net/

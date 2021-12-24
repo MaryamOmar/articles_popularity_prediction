@@ -10,7 +10,8 @@ in this project we'll be building a model to predicit the number of reads of sci
 
 ## STEPS
 - Topic modeling: first we'll extract the topics from the papers abstract, using NMF and LDA, then we'll compare the results.
-- Calculate number of words and scentences in the titles and abstracts, and add these info as new feauteres.
+- Get stats from text like number of words and scentences in the titles and abstracts, and add these info as new feauteres.
+- Perform feautre engineering.
 - Create a regression model to predict the number of reads.
 - Create a contend-based recommender system to recommend articles to users based on thier favorite topic.
 - Create a website.

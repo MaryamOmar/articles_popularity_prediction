@@ -42,7 +42,7 @@ we faced some limitations during the scraping process becuase researchgate only 
 ## TOOLS  
 
 ### Data collection, Preprocessing & Modeling  
-- **Scraping:** beautifulsoup, selenium. 
+- **Scraping:** selenium. 
 - **Text Preprocessing & Mining:** NLTK.
 - **Modeling:** scikit-learn.
 - **Plotting:** matplotlib, plotly, seaborn.

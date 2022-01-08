@@ -16,13 +16,13 @@ in this project we'll be building a model to predicit the number of reads of sci
 
 
 ## DATA
-The data is scraped form researchgate.net, it includes information about all publications from  different . we chose social sciences becuase topics in social science do not need domian-experties to understand, and have a solid number of publications and diverse topics. 
+The data is scraped form researchgate.net, it includes information about all publications from  different social science departments. we chose social science becuase topics in social science do not need domian-experties to understand, and have a solid number of publications and diverse topics. 
 
 ### source:
 https://www.researchgate.net/
 
 ### Description 
-the scraped dataset will consist of 1,365 rows and 12 intial columns.
+the scraped datase consists of 1,899 rows and 12 intial columns.
 
 | col | Description | Type |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ the scraped dataset will consist of 1,365 rows and 12 intial columns.
 | citation | number of times that paper was cited | int
 | reads | number of views (target variable)| int
 
-
+we faced some limitations during the scraping process becuase researchgate only allows accounts with orginzational emails and gives limited daily access. 
 
 ## TOOLS  
 
